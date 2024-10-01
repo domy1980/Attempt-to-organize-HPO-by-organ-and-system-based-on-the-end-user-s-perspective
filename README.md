@@ -1,2 +1,2 @@
-# Attempt-to-organize-HPO-by-organ-and-system-based-on-the-end-user-s-perspective
+# Examining HPO by organ and system to facilitate practical use by clinicians
 The HPO is an ontology dedicated to symptoms and findings of diseases, but the findings examined by each department are biased. In order to obtain cooperation from physicians in each department, it is important to organize the HPOs so that they can be visually confirmed, both for annotation confirmation and for HPO augmentation.
